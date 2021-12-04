@@ -5,6 +5,7 @@ Une fiche qui résume l'essentiel des caractéristiques des personnages à gliss
 
 ## _Le résumé de MJ - v. 1_
 Mise en ligne du résumé du MJ
+
 ![Le résumé du MJ](https://i.ibb.co/6g3Ng5S/coup-doeil-mj.jpg)
 
 
